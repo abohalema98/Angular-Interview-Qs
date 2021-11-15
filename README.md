@@ -1,6 +1,7 @@
-<h1 > Angular-Interview-Qs <h1/>
+<h4 align="left"> Angular Interview Questions </h4>
+<p align="left">
 
--	What is The Deference between ( Authentication- Authorization )
+-	What is The Deference between ( Authentication- Authorization ) 
 -	Navigation Events
 -	Data Binding Types
 -	Control value accessor
@@ -22,3 +23,7 @@
 -	How to improve Application performance
 -	pipes types
 -	interceptor
+</p>
+
+
+
